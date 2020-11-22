@@ -47,10 +47,10 @@ Enter the wait graph
 The wait-for graph is :
 
         S1      S2      S3      S4
-S1      0       1       0       0
-S2      0       0       1       0
-S3      1       0       0       0
-S4      0       0       0       0
+S1      0       1       0       0<br>
+S2      0       0       1       0<br>
+S3      1       0       0       0<br>
+S4      0       0       0       0<br>
 
 Enter the proccess number intiating the probe (Between 1 and no. of proccesses)
 1
